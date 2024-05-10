@@ -1,0 +1,8 @@
+1. Using  SuperStore identify the  office supply category where top 3 customers have negative profits along the region??(identify count of of negative profits)
+ 
+
+2.Using Global Superstore, identify the Sub-Categories where Top 20 Customers that have Sales more than the other Sub-Categories in the same Region. ?
+
+ 
+
+3.Using Global Superstore, identify the Sub-Categories where Top 20 Customers that have Sales more than the other Sub-Categories in the same Region.
